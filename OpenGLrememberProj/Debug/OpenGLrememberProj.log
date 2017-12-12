@@ -1,0 +1,5 @@
+﻿  Render.cpp
+c:\users\gotagofast\downloads\tak\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(54): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\gotagofast\downloads\tak\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(110): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\gotagofast\downloads\tak\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(153): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  OpenGLrememberProj.vcxproj -> C:\Users\gotagofast\Downloads\tak\grafika_lab1-master\grafika_lab1-master\Debug\OpenGLrememberProj.exe
